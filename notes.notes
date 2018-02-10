@@ -1,0 +1,6 @@
+(to get gamer to work:)
+
+update-alternatives --config java
+update-alternatives --config javac
+
+(sudo apt-get install openjdk-7-jre:i386 icedtea-7-jre-jamvm libatk-wrapper-java-jni:i386 openjdk-7-jdk:i386 openjdk-7-jre-headless openjdk-7-jre default-jre default-jdk default-jre-headless icedtea-7-plugin icedtea-plugin openjdk-7-jdk libinline-java-perl)

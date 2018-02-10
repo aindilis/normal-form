@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<Skein rootNode="node-0x96bcf60" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Zoom</generator>
+  <activeNode nodeId="node-0x96bcf60" />
+  <item nodeId="node-0x96bcf60">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+
+The Parser
+An Interactive Fiction
+Release 7 / Serial number 120212 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD
+
+lab
+Z-machine.
+
+You can see Bob, a blue hat, a red hat, a yellow hat, two red coins and two copper coins here.
+
+&gt;</result>
+    <commentary xml:space="preserve">
+
+
+
+The Parser
+An Interactive Fiction
+Release 7 / Serial number 120108 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD
+
+lab
+Z-machine.
+
+You can see Bob, a blue hat, a red hat, a yellow hat, two red coins and two copper coins here.
+
+&gt;</commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="35">NO</temporary>
+    <children>
+      <child nodeId="node-0x96bd1d0" />
+      <child nodeId="node-0x96bd150" />
+    </children>
+  </item>
+  <item nodeId="node-0x96bd150">
+    <command xml:space="preserve">, jump</command>
+    <result xml:space="preserve">[ &quot;,&quot; , / &quot;jump&quot; jump ]
+   [NounDomain called at word 1
+   seeking definite object
+[DSA on the north with reason = 0 p1 = 0 p2 = 0]
+    Trying the north (31) at word 1
+Parse_name called
+Pass 1: 0 Pass 2: 0 Pass 3: 0
+[DSA on the northeast with reason = 0 p1 = 0 p2 = 0]
+    Trying the northeast (32) at word 1
+Parse_name called
+Pass 1: 0 Pass 2: 0 Pass 3: 0
+[DSA on the northwest with reason = 0 p1 = 0 p2 = 0]
+    Trying the northwest (33) at word 1
+Parse_name called
+Pass 1: 0 Pass 2: 0 Pass 3: 0
+[DSA on the south with reason = 0 p1 = 0 p2 = 0]
+    Trying the south (34) at word 1
+Parse_name called
+Pass 1: 0 Pass 2: 0 Pass 3: 0
+[DSA on the southeast with reason = 0 p1 = 0 p2 = 0]
+    Trying the southeast (35) at word 1
+Parse_name called
+Pass 1: 0 Pass 2: 0 Pass 3: 0
+[DSA on the southwest with reason = 0 p1 = 0 p2 = 0]
+    Trying the southwest (36) at word 1
+Parse_name called
+Pass 1: 0 Pass 2: 0 Pass 3: 0
+[DSA on the east with reason = 0 p1 = 0 p2 = 0]
+    Trying the east (37) at word 1
+Parse_name called
+Pass 1: 0 Pass 2: 0 Pass 3: 0
+[DSA on the west with reason = 0 p1 = 0 p2 = 0]
+    Trying the west (38) at word 1
+Parse_name called
+Pass 1: 0 Pass 2: 0 Pass 3: 0
+[DSA on the up with reason = 0 p1 = 0 p2 = 0]
+    Trying the up (39) at word 1
+Parse_name called
+Pass 1: 0 Pass 2: 0 Pass 3: 0
+[DSA on the down with reason = 0 p1 = 0 p2 = 0]
+    Trying the down (40) at word 1
+Parse_name called
+Pass 1: 0 Pass 2: 0 Pass 3: 0
+[DSA on the inside with reason = 0 p1 = 0 p2 = 0]
+    Trying the inside (41) at word 1
+Parse_name called
+Pass 1: 0 Pass 2: 0 Pass 3: 0
+[DSA on the outside with reason = 0 p1 = 0 p2 = 0]
+    Trying the outside (42) at word 1
+Parse_name called
+Pass 1: 0 Pass 2: 0 Pass 3: 0
+   [ND made 0 matches]
+You can&apos;t begin with a comma.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="34">YES</temporary>
+  </item>
+  <item nodeId="node-0x96bd1d0">
+    <command xml:space="preserve">me, jump</command>
+    <result xml:space="preserve">[ &quot;me&quot; me / &quot;,&quot; , / &quot;jump&quot; jump ]
+   [NounDomain called at word 1
+   seeking definite object
+[DSA on the north with reason = 0 p1 = 0 p2 = 0]
+    Trying the north (31) at word 1
+Parse_name called
+Pass 1: 0 Pass 2: 0 Pass 3: 0
+[DSA on the northeast with reason = 0 p1 = 0 p2 = 0]
+    Trying the northeast (32) at word 1
+Parse_name called
+Pass 1: 0 Pass 2: 0 Pass 3: 0
+[DSA on the northwest with reason = 0 p1 = 0 p2 = 0]
+    Trying the northwest (33) at word 1
+Parse_name called
+Pass 1: 0 Pass 2: 0 Pass 3: 0
+[DSA on the south with reason = 0 p1 = 0 p2 = 0]
+    Trying the south (34) at word 1
+Parse_name called
+Pass 1: 0 Pass 2: 0 Pass 3: 0
+[DSA on the southeast with reason = 0 p1 = 0 p2 = 0]
+    Trying the southeast (35) at word 1
+Parse_name called
+Pass 1: 0 Pass 2: 0 Pass 3: 0
+[DSA on the southwest with reason = 0 p1 = 0 p2 = 0]
+    Trying the southwest (36) at word 1
+Parse_name called
+Pass 1: 0 Pass 2: 0 Pass 3: 0
+[DSA on the east with reason = 0 p1 = 0 p2 = 0]
+    Trying the east (37) at word 1
+Parse_name called
+Pass 1: 0 Pass 2: 0 Pass 3: 0
+[DSA on the west with reason = 0 p1 = 0 p2 = 0]
+    Trying the west (38) at word 1
+Parse_name called
+Pass 1: 0 Pass 2: 0 Pass 3: 0
+[DSA on the up with reason = 0 p1 = 0 p2 = 0]
+    Trying the up (39) at word 1
+Parse_name called
+Pass 1: 0 Pass 2: 0 Pass 3: 0
+[DSA on the down with reason = 0 p1 = 0 p2 = 0]
+    Trying the down (40) at word 1
+Parse_name called
+Pass 1: 0 Pass 2: 0 Pass 3: 0
+[DSA on the inside with reason = 0 p1 = 0 p2 = 0]
+    Trying the inside (41) at word 1
+Parse_name called
+Pass 1: 0 Pass 2: 0 Pass 3: 0
+[DSA on the outside with reason = 0 p1 = 0 p2 = 0]
+    Trying the outside (42) at word 1
+Parse_name called
+Pass 1: 0 Pass 2: 0 Pass 3: 0
+   [ND made 0 matches]
+parser at 2; verb 1.
+parser at 2; verb 1.
+   [NounDomain called at word 1
+   seeking definite object
+[DSA on yourself with reason = 1 p1 = 0 p2 = 0]
+    Match with quality 1
+    Match added to list
+    Trying yourself (43) at word 1
+    Matched (1) words
+    Match with quality 1
+[DSA on Bob with reason = 1 p1 = 0 p2 = 0]
+    Trying Bob (45) at word 1
+[DSA on the blue hat with reason = 1 p1 = 0 p2 = 0]
+    Trying the blue hat (46) at word 1
+[DSA on the red hat with reason = 1 p1 = 0 p2 = 0]
+    Trying the red hat (47) at word 1
+[DSA on the yellow hat with reason = 1 p1 = 0 p2 = 0]
+    Trying the yellow hat (48) at word 1
+[DSA on the red coin with reason = 1 p1 = 0 p2 = 0]
+    Trying the red coin (49) at word 1
+[DSA on the red coin with reason = 1 p1 = 0 p2 = 0]
+    Trying the red coin (50) at word 1
+[DSA on the copper coin with reason = 1 p1 = 0 p2 = 0]
+    Trying the copper coin (51) at word 1
+[DSA on the copper coin with reason = 1 p1 = 0 p2 = 0]
+    Trying the copper coin (52) at word 1
+   [ND made 1 matches]
+[Actor is yourself in the lab]
+parser at 4; verb 3.
+[Parsing for the verb &apos;jump&apos;]
+
+[line 0 * -&gt; Jump]
+ [line 0 token 1 word 4 : END]
+[Line successfully parsed]
+
+You jump on the spot, fruitlessly.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="33">YES</temporary>
+  </item>
+</Skein>

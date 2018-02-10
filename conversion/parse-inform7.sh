@@ -1,0 +1,1 @@
+/var/lib/myfrdcsa/codebases/minor/normal-form/inform7/inform7/parse-inform7.sh

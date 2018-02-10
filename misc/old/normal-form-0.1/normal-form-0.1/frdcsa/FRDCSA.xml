@@ -1,0 +1,20 @@
+<system>
+  <title>
+    Personal/Group Inventory Management System
+  </title>
+  <short-description>
+    System to organize physical belongings.
+  </short-description>
+  <medium-description>
+    Normal-Form is a system to manage inventory.
+  </medium-description>
+  <long-description>
+    Normal-Form is a system to manage inventory.  There are many
+    interesting capabilities of such a system.  It is modular in the
+    sense that, with certain lending rules, you can stack your
+    instance and friend's instances into a shared inventory,
+    searchable by any of you.  It organizing things by an ontology and
+    possibly tags and allows you to search through, possibly in a 3d
+    search space organized by content, and or a webpage.
+  </long-description>
+</system>

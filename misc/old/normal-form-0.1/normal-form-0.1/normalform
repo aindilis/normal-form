@@ -1,0 +1,19 @@
+#!/usr/bin/perl -w
+
+use NormalForm;
+
+use UniLang::Agent::Agent;
+use UniLang::Util::Message;
+
+$UNIVERSAL::agent = UniLang::Agent::Agent->new
+  (Name => "NormalForm",
+   ReceiveHandler => \&Receive);
+$UNIVERSAL::normalform = NormalForm->new();
+
+sub Receive {
+  my %args = @_;
+  $UNIVERSAL::normalform->ProcessMessage
+    (Message => $args{Message});
+}
+
+$UNIVERSAL::normalform->Execute();

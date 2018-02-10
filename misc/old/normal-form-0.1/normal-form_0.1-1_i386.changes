@@ -1,0 +1,23 @@
+Format: 1.7
+Date: Mon, 31 Mar 2008 21:23:51 -0500
+Source: normal-form
+Binary: libnormalform-perl normal-form
+Architecture: source i386
+Version: 0.1-1
+Distribution: unstable
+Urgency: low
+Maintainer: FRDCSA project <andrewdo@frdcsa.org>
+Changed-By: Andrew Dougherty <andrewdo@frdcsa.org>
+Description: 
+ libnormalform-perl - Perl modules for normal-form
+ normal-form - System to organize physical belongings.
+Changes: 
+ normal-form (0.1-1) unstable; urgency=low
+ .
+   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+Files: 
+ 5b7e521e4f5a7ba75e4ec3aa24b67882 369 unknown optional normal-form_0.1-1.dsc
+ 62528221f773315597d7a4ab82737b13 2030 unknown optional normal-form_0.1.orig.tar.gz
+ 9255d60930e06c8785b127a192e8141e 10605 unknown optional normal-form_0.1-1.diff.gz
+ ac0c802c76ab1431f2e0249f93f7f85c 1698 unknown optional normal-form_0.1-1_i386.deb
+ ff740b9cb9228048a8853b7bdbe55a85 2558 perl optional libnormalform-perl_0.1-1_i386.deb

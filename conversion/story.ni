@@ -1,0 +1,1 @@
+/var/lib/myfrdcsa/codebases/minor/normal-form/inform7/Normal-Form/Normal Form.inform/Source/story.ni
